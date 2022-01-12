@@ -37,6 +37,6 @@ def mainphase():
 #         return redirect(url_for('', name = name))
 #     else:
 #         return render_template('card-search.html')
-print(${{env.text_env}})
+
 if __name__ =='__main__':
     app.run(debug=True)
